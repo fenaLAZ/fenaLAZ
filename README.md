@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Furkan Hayat</h1>
 
-<!--
-**fenaLAZ/fenaLAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Econometrics Student | Data Analyst | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning data into insights and ideas into projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Fourth-year Econometrics student at Dokuz Eylül University.
+- 📊 Interested in Data Analytics, Statistics and Financial Analysis.
+- 🐍 Working with Python and R.
+- 🤖 Exploring Artificial Intelligence and Generative AI.
+- 📈 Experienced in Excel-based reporting and data analysis.
+- 🌍 English proficiency: C1.
+- 🎯 Expected graduation: June 2027.
+
+### 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python
+- R
+- SPSS
+- Pandas
+- NumPy
+
+**Data Visualization & Machine Learning**
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+
+**Other Tools**
+- Microsoft Excel
+- Pivot Tables
+- Jupyter Notebook
+- Git & GitHub
+
+### 💼 Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Econometrics & Statistical Modeling
+- Financial Analytics
+- Machine Learning
+- Artificial Intelligence & Automation
+- Data-Driven Decision Making
+
+### 🚀 What I'm Working Towards
+
+- Building real-world data analytics projects.
+- Improving my Python and SQL skills.
+- Developing machine learning applications.
+- Exploring AI-powered automation.
+- Building a strong open-source portfolio.
+
+---
+
+<p align="center">
+  <b>Always learning. Always building. Always improving. 🚀</b>
+</p>
