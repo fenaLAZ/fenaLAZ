@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Hayat</h1>
 
-<h3 align="center">Econometrics Student | Data Analyst | AI Enthusiast</h3>
+<h3 align="center">Econometrics Student</h3>
 
 <p align="center">
-  Turning data into insights and ideas into projects.
+  Interested in Data Analytics, Statistics, Financial Analysis and Artificial Intelligence.
 </p>
 
 ---
