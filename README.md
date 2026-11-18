@@ -61,3 +61,20 @@
 <p align="center">
   <b>Always learning. Always building. Always improving. 🚀</b>
 </p>
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode" />
+</p>
+
+**Data Analysis & Machine Learning**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- SPSS
+- Microsoft Excel
