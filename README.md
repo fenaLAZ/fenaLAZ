@@ -78,3 +78,12 @@
 - Scikit-learn
 - SPSS
 - Microsoft Excel
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fenaLAZ&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenaLAZ&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
